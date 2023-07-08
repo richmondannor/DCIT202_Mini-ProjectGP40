@@ -4,6 +4,7 @@ Adumoah Isaac @cy-rus404
 Obeng Dominic(@Dominic-1)-10956937
 James-Ocloo Caleb  @Cal90  10948078
 Kelvin Oppong-Boateng 10971826
+Richmond Annor Ayisah 10953751
 
 # Foodie_app
 **Screen fits perfectly on Pixel 3XL**
