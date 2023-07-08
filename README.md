@@ -9,7 +9,7 @@ Richmond Annor Ayisah 10953751
 # Foodie_app
 **Screen fits perfectly on Pixel 3XL**
 The Food Delivery App is a mobile application designed to provide a convenient and efficient way for users to order food from various restaurants and have it delivered to their doorstep. It presents users with a wide array of food items based on their location and preferences as well. This documentation outlines the key features, functionality, and usage guidelines of the app.
-Features:
+**Features:**
 -Restaurant Selection: Provides a list of restaurants based on the user's location, allowing them to choose from a wide range of options.
 -Cart Section: Provides a list of food items, allows users to adjust or edit their choice of food amounts. The cart section shows the price per item and calculate the food total.
 - Menu and Ordering: Displays the menu with detailed descriptions and prices of each food item, enabling users to select items and customize their orders.
